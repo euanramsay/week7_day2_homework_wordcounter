@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="word">Please enter a word</string>
+    <string name ="count">How many letters in the word?</string>
+    <string name="answer">The number of letters is ...</string>
+</resources>
